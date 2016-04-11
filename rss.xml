@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[RideRelaz]]></title>
         <description><![CDATA[RideRelaz]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/riderelaz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Apr 2016 14:29:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 11 Apr 2016 14:42:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/riderelaz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/79ba1e93-0118-4476-a84e-d881807e7f33.jpg">]]></description>
+            <link>https://thegrid.ai/riderelaz/231793ee-90c2-4922-9afa-421808cba0fd/index.html</link>
+            <guid isPermaLink="false">231793ee-90c2-4922-9afa-421808cba0fd</guid>
+            <pubDate>Mon, 11 Apr 2016 14:42:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d44e4e5e-b4c9-4d30-8ae6-6fe5f9d46f48.jpg">]]></description>
-            <link>undefinedc6c57b5c-a014-43af-8e38-531c8238a166/index.html</link>
+            <link>https://thegrid.ai/riderelaz/c6c57b5c-a014-43af-8e38-531c8238a166/index.html</link>
             <guid isPermaLink="false">c6c57b5c-a014-43af-8e38-531c8238a166</guid>
             <pubDate>Mon, 11 Apr 2016 14:29:44 GMT</pubDate>
         </item>
